@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-/Debug
+Debug/
+C++Study/Debug
 # Compiled Object files
 *.slo
 *.lo

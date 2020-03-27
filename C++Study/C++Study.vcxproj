@@ -149,9 +149,6 @@
   <ItemGroup>
     <ClCompile Include="01-HelloWorld.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\C++StudyNotes.md" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

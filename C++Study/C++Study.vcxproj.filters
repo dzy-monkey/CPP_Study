@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\C++StudyNotes.md" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="01-HelloWorld.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
