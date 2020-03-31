@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01-HelloCPP", "C++Study\C++Study.vcxproj", "{E70F127E-FDA5-4B40-B521-0F7F552CCCD2}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02-UserInput", "02-UserInput\02-UserInput.vcxproj", "{27E26B42-E656-499E-9743-EA52765B77D1}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03-Variate", "03-Variate\03-Variate.vcxproj", "{13725D23-ED17-41C6-8CA3-029CF64183CC}"
@@ -29,14 +27,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E70F127E-FDA5-4B40-B521-0F7F552CCCD2}.Debug|x64.ActiveCfg = Debug|x64
-		{E70F127E-FDA5-4B40-B521-0F7F552CCCD2}.Debug|x64.Build.0 = Debug|x64
-		{E70F127E-FDA5-4B40-B521-0F7F552CCCD2}.Debug|x86.ActiveCfg = Debug|Win32
-		{E70F127E-FDA5-4B40-B521-0F7F552CCCD2}.Debug|x86.Build.0 = Debug|Win32
-		{E70F127E-FDA5-4B40-B521-0F7F552CCCD2}.Release|x64.ActiveCfg = Release|x64
-		{E70F127E-FDA5-4B40-B521-0F7F552CCCD2}.Release|x64.Build.0 = Release|x64
-		{E70F127E-FDA5-4B40-B521-0F7F552CCCD2}.Release|x86.ActiveCfg = Release|Win32
-		{E70F127E-FDA5-4B40-B521-0F7F552CCCD2}.Release|x86.Build.0 = Release|Win32
 		{27E26B42-E656-499E-9743-EA52765B77D1}.Debug|x64.ActiveCfg = Debug|x64
 		{27E26B42-E656-499E-9743-EA52765B77D1}.Debug|x64.Build.0 = Debug|x64
 		{27E26B42-E656-499E-9743-EA52765B77D1}.Debug|x86.ActiveCfg = Debug|Win32

@@ -2,6 +2,10 @@
 *.d
 # 忽略任何目录下名为 Debug/的文件夹
 Debug/
+#忽略.vs文件
+.vs/
+#忽略x64文件
+x64/
 # Compiled Object files
 *.slo
 *.lo
