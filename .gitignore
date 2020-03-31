@@ -1,7 +1,7 @@
 # Prerequisites
 *.d
+# 忽略任何目录下名为 Debug/的文件夹
 Debug/
-C++Study/Debug
 # Compiled Object files
 *.slo
 *.lo

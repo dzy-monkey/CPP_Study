@@ -4,7 +4,7 @@
 int main()
 {
 	using namespace std;
-	cout << "Hello World!\n" << endl << 18 << "岁" << endl;
+	cout << "Hello CPP!\n" << endl << 18 << "岁" << endl;
 	printf("我的年龄是18%s", "岁\n");
 	printf("我的年龄是%d", 18);
 }
