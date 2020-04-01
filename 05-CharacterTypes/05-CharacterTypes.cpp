@@ -1,5 +1,5 @@
 ﻿/*
-字符类型
+字符类型(基本类型)
 */
 #include <iostream>
 using namespace std;

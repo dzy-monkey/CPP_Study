@@ -1,5 +1,5 @@
 ﻿/*
-常量
+常量(基本类型)
 */
 #include <iostream>
 

@@ -1,5 +1,5 @@
 ﻿/*
-整型
+整型(基本类型)
 */
 #include <iostream>
 #include <climits>

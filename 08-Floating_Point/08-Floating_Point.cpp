@@ -1,5 +1,5 @@
 ﻿/*
-浮点类型
+浮点类型(基本类型)
 */
 #include <iostream>
 #include <limits>

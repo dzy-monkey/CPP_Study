@@ -1,5 +1,5 @@
 ﻿/*
-布尔类型
+布尔类型(基本类型)
 */
 #include <iostream>
 using namespace std;
