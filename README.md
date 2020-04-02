@@ -1,5 +1,6 @@
 # C++学习笔记项目
-	
+- 具体的内容请打开文件查看，有些写了综合案例，可供参考 
+
 ## 01-HelloCPP
 - 搭建好C++运行环境，输出HelloCPP 
 
@@ -26,3 +27,12 @@
 
 ## 09-ArithmeticOperator
 - 算数运算符
+
+## 10-TypesConversion
+- 类型转换
+
+## 11-Array
+- 数组
+
+## 12-String
+- 字符串
