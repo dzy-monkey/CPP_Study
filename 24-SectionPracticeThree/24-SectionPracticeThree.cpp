@@ -3,6 +3,7 @@
 */
 #include <iostream>
 using namespace std;
+
 int main()
 {
 	//int i;
@@ -40,25 +41,42 @@ int main()
 	//	cout << "k:" << k << endl;
 	//} while (k++<5);
 	//cout << k << endl;
-	int i = 1;
-	for (;  i<=64; i*=2)
-	{
-		cout << i << endl;
-	}
-	//输出两个整数之间所有整数的和
-	cout << "请输入第一个数字：";
-	int num1;
-	cin >> num1;
-	cout << "请输入第二个数字：";
-	int num2;
-	cin >> num2;
+	//int i = 1;
+	//for (;  i<=64; i*=2)
+	//{
+	//	cout << i << endl;
+	//}
+	////输出两个整数之间所有整数的和
+	//cout << "请输入第一个数字：";
+	//int num1;
+	//cin >> num1;
+	//cout << "请输入第二个数字：";
+	//int num2;
+	//cin >> num2;
 
-	int total = 0;
-	for (int  i = num1; i < num2; i++)
+	//int total = 0;
+	//for (int  i = num1; i < num2; i++)
+	//{
+	//	total += i;
+	//}
+	//cout << total << endl;
+
+	float total = 0;
+
+	while (true)
 	{
-		total += i;
+		cout << "请输入一个数字：";
+		float number;
+		cin >> number;
+		if (number==0)
+		{
+			break;
+		}
+		total += number;
+		cout << "当前所有输入的和为：" << total << endl;
 	}
-	cout << total << endl;
+
+
 }
 
 
